@@ -17,6 +17,6 @@
 		"@biomejs/biome": "^2.5.7"
 	},
 	"overrides": {
-		"fast-uri": "^4.1.2"
+		"fast-uri": "^4.1.4"
 	}
 }
